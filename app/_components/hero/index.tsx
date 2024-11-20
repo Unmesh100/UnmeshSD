@@ -19,7 +19,7 @@ export const Hero = () => {
             className="text-4xl lg:text-6xl xl:text-8xl font-extrabold leading-tighter tracking-tighter mb-4 lg:mb-6"
             data-aos="zoom-y-out"
           >
-            System design puzzles
+            Unmesh System Design
           </h1>
           <div className="max-w-3xl mx-auto">
             <p className="text-xl lg:text-2xl lg:font-medium text-muted-foreground mb-8">
